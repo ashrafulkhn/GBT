@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libgbt_core.a CMakeFiles/gbt_core.dir/src/gbt/GbtFrames.cpp.obj CMakeFiles/gbt_core.dir/src/gbt/GbtController.cpp.obj CMakeFiles/gbt_core.dir/src/gbt/GbtStateMachine.cpp.obj CMakeFiles/gbt_core.dir/src/can/SocketCan.cpp.obj CMakeFiles/gbt_core.dir/src/can/DummyCan.cpp.obj CMakeFiles/gbt_core.dir/src/core/System.cpp.obj CMakeFiles/gbt_core.dir/src/core/OcppIntegration.cpp.obj CMakeFiles/gbt_core.dir/src/ocpp/OcppClient.cpp.obj CMakeFiles/gbt_core.dir/src/utils/Logger.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libgbt_core.a

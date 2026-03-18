@@ -1,0 +1,62 @@
+[
+{
+  "directory": "C:/Users/ashra/Documents/GitHub/GBT/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gbt_core.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wpedantic -Wconversion -o CMakeFiles\\gbt_core.dir\\src\\gbt\\GbtFrames.cpp.obj -c C:\\Users\\ashra\\Documents\\GitHub\\GBT\\src\\gbt\\GbtFrames.cpp",
+  "file": "C:/Users/ashra/Documents/GitHub/GBT/src/gbt/GbtFrames.cpp",
+  "output": "CMakeFiles/gbt_core.dir/src/gbt/GbtFrames.cpp.obj"
+},
+{
+  "directory": "C:/Users/ashra/Documents/GitHub/GBT/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gbt_core.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wpedantic -Wconversion -o CMakeFiles\\gbt_core.dir\\src\\gbt\\GbtController.cpp.obj -c C:\\Users\\ashra\\Documents\\GitHub\\GBT\\src\\gbt\\GbtController.cpp",
+  "file": "C:/Users/ashra/Documents/GitHub/GBT/src/gbt/GbtController.cpp",
+  "output": "CMakeFiles/gbt_core.dir/src/gbt/GbtController.cpp.obj"
+},
+{
+  "directory": "C:/Users/ashra/Documents/GitHub/GBT/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gbt_core.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wpedantic -Wconversion -o CMakeFiles\\gbt_core.dir\\src\\gbt\\GbtStateMachine.cpp.obj -c C:\\Users\\ashra\\Documents\\GitHub\\GBT\\src\\gbt\\GbtStateMachine.cpp",
+  "file": "C:/Users/ashra/Documents/GitHub/GBT/src/gbt/GbtStateMachine.cpp",
+  "output": "CMakeFiles/gbt_core.dir/src/gbt/GbtStateMachine.cpp.obj"
+},
+{
+  "directory": "C:/Users/ashra/Documents/GitHub/GBT/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gbt_core.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wpedantic -Wconversion -o CMakeFiles\\gbt_core.dir\\src\\can\\SocketCan.cpp.obj -c C:\\Users\\ashra\\Documents\\GitHub\\GBT\\src\\can\\SocketCan.cpp",
+  "file": "C:/Users/ashra/Documents/GitHub/GBT/src/can/SocketCan.cpp",
+  "output": "CMakeFiles/gbt_core.dir/src/can/SocketCan.cpp.obj"
+},
+{
+  "directory": "C:/Users/ashra/Documents/GitHub/GBT/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gbt_core.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wpedantic -Wconversion -o CMakeFiles\\gbt_core.dir\\src\\can\\DummyCan.cpp.obj -c C:\\Users\\ashra\\Documents\\GitHub\\GBT\\src\\can\\DummyCan.cpp",
+  "file": "C:/Users/ashra/Documents/GitHub/GBT/src/can/DummyCan.cpp",
+  "output": "CMakeFiles/gbt_core.dir/src/can/DummyCan.cpp.obj"
+},
+{
+  "directory": "C:/Users/ashra/Documents/GitHub/GBT/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gbt_core.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wpedantic -Wconversion -o CMakeFiles\\gbt_core.dir\\src\\core\\System.cpp.obj -c C:\\Users\\ashra\\Documents\\GitHub\\GBT\\src\\core\\System.cpp",
+  "file": "C:/Users/ashra/Documents/GitHub/GBT/src/core/System.cpp",
+  "output": "CMakeFiles/gbt_core.dir/src/core/System.cpp.obj"
+},
+{
+  "directory": "C:/Users/ashra/Documents/GitHub/GBT/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gbt_core.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wpedantic -Wconversion -o CMakeFiles\\gbt_core.dir\\src\\core\\OcppIntegration.cpp.obj -c C:\\Users\\ashra\\Documents\\GitHub\\GBT\\src\\core\\OcppIntegration.cpp",
+  "file": "C:/Users/ashra/Documents/GitHub/GBT/src/core/OcppIntegration.cpp",
+  "output": "CMakeFiles/gbt_core.dir/src/core/OcppIntegration.cpp.obj"
+},
+{
+  "directory": "C:/Users/ashra/Documents/GitHub/GBT/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gbt_core.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wpedantic -Wconversion -o CMakeFiles\\gbt_core.dir\\src\\ocpp\\OcppClient.cpp.obj -c C:\\Users\\ashra\\Documents\\GitHub\\GBT\\src\\ocpp\\OcppClient.cpp",
+  "file": "C:/Users/ashra/Documents/GitHub/GBT/src/ocpp/OcppClient.cpp",
+  "output": "CMakeFiles/gbt_core.dir/src/ocpp/OcppClient.cpp.obj"
+},
+{
+  "directory": "C:/Users/ashra/Documents/GitHub/GBT/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gbt_core.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wpedantic -Wconversion -o CMakeFiles\\gbt_core.dir\\src\\utils\\Logger.cpp.obj -c C:\\Users\\ashra\\Documents\\GitHub\\GBT\\src\\utils\\Logger.cpp",
+  "file": "C:/Users/ashra/Documents/GitHub/GBT/src/utils/Logger.cpp",
+  "output": "CMakeFiles/gbt_core.dir/src/utils/Logger.cpp.obj"
+},
+{
+  "directory": "C:/Users/ashra/Documents/GitHub/GBT/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gbt.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\gbt.dir\\src\\main.cpp.obj -c C:\\Users\\ashra\\Documents\\GitHub\\GBT\\src\\main.cpp",
+  "file": "C:/Users/ashra/Documents/GitHub/GBT/src/main.cpp",
+  "output": "CMakeFiles/gbt.dir/src/main.cpp.obj"
+}
+]

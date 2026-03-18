@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\gbt.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\gbt.dir/objects.a @CMakeFiles\gbt.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\gbt.dir/objects.a -Wl,--no-whole-archive -o gbt.exe -Wl,--out-implib,libgbt.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\gbt.dir\linkLibs.rsp

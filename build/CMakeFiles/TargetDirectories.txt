@@ -1,0 +1,4 @@
+C:/Users/ashra/Documents/GitHub/GBT/build/CMakeFiles/gbt_core.dir
+C:/Users/ashra/Documents/GitHub/GBT/build/CMakeFiles/gbt.dir
+C:/Users/ashra/Documents/GitHub/GBT/build/CMakeFiles/edit_cache.dir
+C:/Users/ashra/Documents/GitHub/GBT/build/CMakeFiles/rebuild_cache.dir
